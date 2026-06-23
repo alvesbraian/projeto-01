@@ -10,5 +10,5 @@
 
 - Whiskas
 
-https://media.tenor.com/LjwBOfvg4r4AAAAd/scuba-scuba-cat.gif
+[jackbot].https://media.tenor.com/LjwBOfvg4r4AAAAd/scuba-scuba-cat.gif
 
