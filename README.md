@@ -10,5 +10,6 @@
 
 - Whiskas
 
-[jackpot].https://media.tenor.com/LjwBOfvg4r4AAAAd/scuba-scuba-cat.gif
+![cat](https://media1.tenor.com/m/UZQrH3AhqzQAAAAd/xiv-cat-brazil.gif)
+
 
